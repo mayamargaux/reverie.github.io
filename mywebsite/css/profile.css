@@ -1,0 +1,52 @@
+h1 {
+	font-style: oblique;
+	font-weight: 600;
+	font-family: "Book Antiqua", serif;
+	font-size: 35;
+}
+h2 {	font-size:15;
+	font-style: oblique;
+	font-family: serif;
+}
+h3, h4 {
+	font-style: bold;
+	font-weight: 540;
+	font-family: "Palatino", serif;
+	font-size: 20;
+}
+.card-title, .nav-item {
+	border-width: 1px;
+	border-spacing: 1px;
+	border-radius: 5px;
+	border-color: powderblue;
+}
+p.description{
+	font-family: serif;
+	font-style:italic;
+}
+p.medium {
+	font-style:bold;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:400;
+
+}
+body, .card-footer {
+	background-color: aliceblue;
+}
+.card-text {
+	font-style: bold;
+}
+.card-footer {
+	border-width: 1px;
+	border-color:lightsteelblue
+}
+
+a {
+	font-family: serif;
+	font-color: navy;
+}
+
+.nav-link-active{
+	font-color: navy:;
+}
+}
